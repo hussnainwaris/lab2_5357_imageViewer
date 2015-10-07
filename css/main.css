@@ -1,0 +1,30 @@
+img{
+width: 100%;
+height:80%;
+padding-top:36.5039px;
+}
+
+h1{
+	padding-top: 30px;
+	text-align: center;
+	color:#f65a81;
+	font-size: 40px;
+}
+
+a{
+color:#967e11;
+font-size: 25px;
+
+}
+#images div{
+	display: none;
+}
+
+#images div:target{
+
+	display: block;
+}
+ul{
+text-align: center;
+
+}
